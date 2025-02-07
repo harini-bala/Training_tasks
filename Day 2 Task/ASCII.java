@@ -6,7 +6,7 @@ public class ASCII {
 
             //ASCII
             ascii();
-                
+                 
         }
 
         private static void ascii() {
