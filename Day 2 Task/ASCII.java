@@ -1,6 +1,6 @@
 import java.sql.SQLOutput;
 //DAY 2 Evening
-public class Demo {
+public class ASCII {
 
         public static void main(String[] args) {
 
