@@ -1,4 +1,4 @@
-//Day 4 morning task
+
 import java.util.Scanner;
 
 public class AlphabetCaseChanger {
