@@ -5,7 +5,7 @@ public class DiffReturnType {
         public static void main(String[] args) {
 
             //integer
-            int result1 = calc(1, 2);
+            int result1 = calc(1, 2); 
             System.out.println("Method with integer return type, Output is "+ result1); 
 
             //double
