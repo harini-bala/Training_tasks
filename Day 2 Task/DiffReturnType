@@ -6,7 +6,7 @@ public class DiffReturnType {
 
             //integer
             int result1 = calc(1, 2);
-            System.out.println("Method with integer return type, Output is "+ result1);
+            System.out.println("Method with integer return type, Output is "+ result1); 
 
             //double
             double result2 = divider(3.63456, 2.56563);
